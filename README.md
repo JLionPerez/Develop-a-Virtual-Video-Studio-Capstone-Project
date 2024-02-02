@@ -1,5 +1,8 @@
 # Develop a Virtual Video Studio (Capstone Project)
 
+### Note
+This repository only consists of information about the Develop a Virtual Video Studio project. We were not allowed to keep the code due to it being property of our Industry Sponsor, Mike Premi and Intel Corporation.
+
 ### Website
 [Engineering Virtual Expo 2021: Develop a Virtual Video Studio](https://events.engineering.oregonstate.edu/expo2021/project/develop-virtual-video-studio)
 
